@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanishasgit
+- 👋 Hi, I’m Tanisha
 - 🎓 I’m a second-year Computer Science and IT student
 - 🌍 I love traveling and meeting new people, which inspires my passion for technology and innovation.
 - 👀 I’m interested in web development, exploring new tech trends, and working on impactful projects.
