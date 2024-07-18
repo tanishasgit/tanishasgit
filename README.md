@@ -3,7 +3,6 @@
 - 🌍 I love traveling and meeting new people, which inspires my passion for technology and innovation.
 - 👀 I’m interested in web development and working on impactful projects.
 - 🌱 I’m currently learning advanced web development, data structures, and algorithms.
-- 😄 Pronouns: She/Her
 - 📫 How to reach me: tanisha.biswal@gmail.com or (https://www.linkedin.com/in/tanisha-biswal-527078263/)
 
 
