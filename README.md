@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning advanced web development, data structures, and algorithms.
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: tanisha.biswal@gmail.com or (https://www.linkedin.com/in/tanisha-biswal-527078263/)
+[![GitHub followers](https://img.shields.io/github/followers/tanishasgit?style=social)](https://github.com/tanishasgit)
 
 <!---
 tanishasgit/tanishasgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
