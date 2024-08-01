@@ -3,7 +3,9 @@
 - 🌍 I love traveling and meeting new people, which inspires my passion for technology and innovation.
 - 👀 I’m interested in web development and working on impactful projects.
 - 🌱 I’m currently learning advanced web development, data structures, and algorithms.
-- 📫 How to reach me: tanisha.biswal@gmail.com or (https://www.linkedin.com/in/tanisha-biswal-527078263/)
+- 📫 How to reach me: tanisha.biswal@gmail.com or [LinkedIn](https://www.linkedin.com/in/tanisha-biswal-527078263/)
+- 🌐 Check out my landing page: [Visit Here](https://tanishabiswal.vercel.app/)
+
 
 
 <!---
